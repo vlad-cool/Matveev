@@ -1,4 +1,4 @@
-- `ssh-keygen` in ~/.ssh
-- `ssh-add key-name`
+- `ssh-keygen` in ~/.ssh --> make ssh keys
+- `ssh-add key-name` --> ???
 - in github.com go to settings -> SSH ang GPG keys -> new SSH key
-- `git clone 'git@github.com:username/repository.git'`
+- `git clone 'git@github.com:username/repository.git'` --> success
